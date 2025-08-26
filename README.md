@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ujjwal Dwivedi  
 
-🎓 Pre-Final Year B.Tech CSE (AI & ML) Student at **KIET Group of Institutions, Ghaziabad**  
+🎓 Final Year B.Tech CSE (AI & ML) Student at **KIET Group of Institutions, Ghaziabad**  
 
 ---
 

@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ujjwal Dwivedi  
 
-🎓 Final Year B.Tech CSE (AI & ML) student at KIET Group of Institutions, Ghaziabad  
+🎓 Pre-Final Year B.Tech CSE (AI & ML) student at KIET Group of Institutions, Ghaziabad  
 🌱 Currently exploring Deep Learning, Neural Networks & AI tools  
 📫 Reach me at: **[ujjwaldwivedi567@gmail.com](mailto:ujjwaldwivedi567@gmail.com)**  
 
@@ -42,13 +42,6 @@
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" /></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
-  
-  <!-- Fixed extra logos -->
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/langchain.png" alt="LangChain" width="40" height="40"/></a>
-  <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" height="40"/></a>
-  <a href="https://developer.android.com/studio" target="_blank"><img src="https://developer.android.com/studio/images/studio-icon-preview.svg" alt="Android Studio" width="40" height="40"/></a>
 </p>  
 
 ---
@@ -59,5 +52,5 @@
   <a href="mailto:ujjwaldwivedi567@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://linkedin.com/in/ujjwaldwivedi45" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://leetcode.com/u/Ujjwaldw/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40" height="40"/></a>
-  <a href="https://github.com/Ujjwaldwivedi567" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://github.com/ujjwal4518" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>  

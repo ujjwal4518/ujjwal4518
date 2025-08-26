@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me  
 - 🌱 Currently exploring **Deep Learning, Neural Networks, and LLMs**  
-- 📫 Reach me at: **ujjwaldwivedi567@gmail.com**  
+- 📫 Reach me at: [ujjwaldwivedi567@gmail.com](mailto:ujjwaldwivedi567@gmail.com)  
 
 ---
 
@@ -27,21 +27,21 @@
 <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" /></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://skillicons.dev/icons?i=matlab" /></a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
-<a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" /></a>
+<a href="https://opencv.org/" target="_blank"><img src="https://upload.wikimedia.org/2021/04/opencv-logo.png" width="45" /></a>
 <a href="https://www.oracle.com/database/" target="_blank"><img src="https://skillicons.dev/icons?i=oracle" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
 <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" /></a>
 <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" /></a>
-<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=seaborn" /></a>
+<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="45" /></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
-<a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda" /></a>
+<a href="https://www.anaconda.com/" target="_blank"><img src="https://anaconda.org/static/images/logo.svg" width="45" /></a>
 <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
@@ -57,5 +57,5 @@
 <p>
 <a href="https://linkedin.com/in/ujjwaldwivedi45" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:ujjwaldwivedi567@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://leetcode.com/u/Ujjwaldw/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
+<a href="https://leetcode.com/u/Ujjwaldw/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45" /></a>
 </p>

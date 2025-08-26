@@ -1,8 +1,11 @@
-# Hi 👋, I'm Ujjwal Dwivedi  
+<h1 align="center">Hi 👋, I'm Ujjwal Dwivedi</h1>  
+<h3 align="center">Final Year B.Tech CSE (AI & ML) student at KIET Group of Institutions, Ghaziabad</h3> 
 
-🎓 Pre-Final Year B.Tech CSE (AI & ML) student at KIET Group of Institutions, Ghaziabad  
-🌱 Currently exploring Deep Learning, Neural Networks & AI tools  
-📫 Reach me at: **[ujjwaldwivedi567@gmail.com](mailto:ujjwaldwivedi567@gmail.com)**  
+---
+
+## 👩‍💻 About Me  
+- 🌱 Currently exploring **Deep Learning, Neural Networks, and LLMs**  
+- 📫 Reach me at: [ujjwaldwivedi567@gmail.com](mailto:ujjwaldwivedi567@gmail.com)  
 
 ---
 
@@ -30,7 +33,6 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" /></a>
-  <a href="https://www.oracle.com/" target="_blank"><img src="https://skillicons.dev/icons?i=oracle" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" /></a>

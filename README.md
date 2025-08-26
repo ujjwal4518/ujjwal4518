@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ujjwal Dwivedi  
 
-🎓 Final Year B.Tech CSE (AI & ML) Student at **KIET Group of Institutions, Ghaziabad**  
+🎓 Pre-Final Year B.Tech CSE (AI & ML) Student at **KIET Group of Institutions, Ghaziabad**  
 
 ---
 
@@ -16,8 +16,8 @@
 </p>
 
 <p>
-<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="40" />  
-<img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/langchain.png" width="40" />  
+<img src="https://img.shields.io/badge/HuggingFace-%F0%9F%A4%97-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-%2300A67E.svg?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
@@ -28,4 +28,3 @@
 <a href="mailto:ujjwaldwivedi567@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://leetcode.com/u/Ujjwaldw/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
 </p>
-
